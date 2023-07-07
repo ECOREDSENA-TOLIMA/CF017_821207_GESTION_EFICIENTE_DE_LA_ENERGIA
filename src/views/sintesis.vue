@@ -3,11 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p El Componente 017 aborda la recolección de datos e inventarios en el contexto de la gestión de información. Explora las herramientas informáticas tanto de #[i hardware] como de #[i software] utilizadas en este proceso, desde dispositivos físicos hasta programas y aplicaciones especializadas. También se examinan los distintos tipos de datos, como numéricos, booleanos, de fecha y hora, y de texto, junto con su importancia y características.
+    p Además, se analizan las fuentes de recolección de información, que pueden ser encuestas, observaciones o bases de datos existentes, y se exploran las técnicas de recolección, desde métodos manuales hasta la importación de datos a través de interfaces de comunicación.
+    p El componente también destaca la importancia de establecer parámetros para la recolección de datos, como la frecuencia de captura, la cantidad de capturas por momento y la estabilización y normalización de los datos recopilados. Asimismo, se examina la clasificación de datos y su organización en categorías o grupos.
+    p.mb-5 Finalmente, se aborda el tema de los inventarios, que son registros detallados de los bienes o recursos disponibles en un momento dado. Se exploran las definiciones y aplicaciones de los inventarios, así como las técnicas y herramientas de #[i software] más comunes utilizadas en su gestión.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-12.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto

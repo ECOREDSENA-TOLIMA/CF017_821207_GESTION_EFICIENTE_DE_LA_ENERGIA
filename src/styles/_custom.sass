@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 17%
+    right: 75%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 18%
     right: 30%
+  &-3
+    animation: float1 2.1s ease-in-out infinite alternate
+    position: absolute
+    top: 41%
+    right: 18%
 
 
 @keyframes float1
@@ -17,3 +22,43 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__img
+  img 
+    width: 70%
+
+.tema1
+  .tarjeta-avatar 
+    height: 90%
+    position: relative
+    padding-top: 42px
+    .tarjeta 
+      padding-left: 1.2rem
+      padding-right: 1.2rem
+      p
+        font-weight: bold
+  .tarjeta.tarjeta--custom
+    background-color: #FFFFFF
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.0px
+  .cajon.color--azul
+    background-color: #DDF6FF
+  .cajon.color--gris
+    background-color: #ECE3FF
+  .sin-fondo
+    background-color: #FFFFFF
+  .tarjeta-avatar-b__img 
+    img
+      width: 80%
+  .tarjeta-avatar-b .tarjeta
+    padding-left: 5%
+    margin-left: -11%
+  .texto-negro, .texto-negro > *
+    color: #000000 !important
+  .img-infografica-b__modal
+    background-color: #FFFFFF
+    border: 3px solid $color-acento-contenido
+    margin: -20px
+    border-radius: 1rem
+  .img-infografica-b__modal__btn-cerrar
+    i
+      color: $color-acento-contenido
