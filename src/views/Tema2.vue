@@ -140,7 +140,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-doc.svg")
           .anexo__texto
-            p Anexo 2 . Fecha y Hora, en la herramienta de hojas de cálculo Excel, se explica cómo es un procedimiento con la herramienta de hojas de cálculo de Excel.
+            p #[strong Anexo 2.] Fecha y Hora, en la herramienta de hojas de cálculo Excel, se explica cómo es un procedimiento con la herramienta de hojas de cálculo de Excel.
 
 
     Separador
