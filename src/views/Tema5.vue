@@ -249,8 +249,8 @@
             p.mb-1.text-small #[strong Ejemplo de valor atípico:] en este conjunto de datos (ficticios), dos puntos se destacan claramente del resto y deben investigarse. Como se observa en la siguiente figura, los puntos rojos tienen un comportamiento evidentemente muy diferente al resto de los puntos.
 
     Separador
-    #t_5_7.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 5.7 Normalización de datos 
+    #t_5_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 5.5 Normalización de datos 
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -304,7 +304,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-doc.svg")
           .anexo__texto
-            p #[strong Anexo 4.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.doxc
+            p #[strong Anexo 4.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.docx
 
 
 
