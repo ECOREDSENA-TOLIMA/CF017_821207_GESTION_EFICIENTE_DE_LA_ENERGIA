@@ -20,7 +20,7 @@
               p Normalmente, es posible recopilar datos de dos fuentes, a saber, primaria y secundaria. Los datos recopilados mediante la revisión de la percepción o el cuestionario, en un entorno característico, son ilustraciones de los datos obtenidos en una situación no controlada. Los datos secundarios son los datos adquiridos de fuentes opcionales, como revistas, libros, documentos, informes, la web y más. A continuación, se describe el flujo de las fuentes de recopilación de datos. 
             .col-md-6.col-12
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-02.svg', alt='')
+                img(src='@/assets/curso/temas/tema3/tema3-02.svg', alt='Fuentes: a) primarias: comprendidas por persona y echos. b) secundarias: comprendidas por material impreso.')
           .row.justify-content-center.align-items-center.p-3(x="30%" y="75%" tooltip="1" numero="2")
             .col-12
               h3 Fuentes primarias
@@ -50,7 +50,7 @@
                     | Registros de inventario.
                 li 
                   .lista-ul__vineta
-                    | Estudios de marketing previos.
+                    | Estudios de #[em marketing] previos.
 
           .row.justify-content-center.align-items-center.p-3(x="81%" y="66%" tooltip="6" numero="6")
             .col-12

@@ -7,7 +7,7 @@
         span 5
       h1 Parámetros para la recolección de datos
 
-    p.mb-5(data-aos="fade-right") Visualice cuáles son los parámetros para la recolección de datos:     
+    p.mb-5(data-aos="fade-right") Se presentan cuáles son los parámetros para la recolección de datos:     
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-down")
       SlyderA(tipo="b")
@@ -186,7 +186,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-18.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos físicos
+            //h2.mb-1 Métodos físicos
             p.mb-1.text-small #[strong Filtros de señal:] un filtro es un dispositivo o proceso que elimina algunos componentes o características no deseadas de una señal. El filtrado es una clase de procesamiento de señales, siendo la característica definitoria de los filtros la supresión total o parcial de algún aspecto de la señal.
             p.mb-1.text-small La mayoría de las veces, esto significa eliminar algunas frecuencias o bandas de frecuencia. Sin embargo, los filtros no actúan exclusivamente en el dominio de la frecuencia; especialmente, en el campo del procesamiento de imágenes, existen muchos otros objetivos para el filtrado.
             p.mb-1.text-small Las correlaciones se pueden eliminar para ciertos componentes de frecuencia y no para otros, sin tener que actuar en el dominio de la frecuencia. 
@@ -196,7 +196,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-19.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos físicos
+            //h2.mb-1 Métodos físicos
             p.mb-1.text-small #[strong Acondicionadores de señal:] un acondicionador de señal es una técnica que se hace mediante un dispositivo, que convierte un tipo de señal electrónica en otro tipo de señal. Su uso principal es convertir una señal que puede ser difícil de leer con la instrumentación convencional en un formato de lectura más fácil. Al realizar esta conversión, pueden tener lugar una serie de funciones.
             p.mb-1.text-small El acondicionamiento de señales es un proceso vital, que se realiza dentro del sistema de adquisición de datos. Implica la manipulación de la salida de señal analógica de los sensores, para prepararla para la siguiente etapa de procesamiento. El acondicionamiento de señales amplifica y convierte las señales de los sensores o transductores en una forma compatible y fácil de leer para el sistema de adquisición de datos (DAQ).
             p.mb-1.text-small Este proceso de "acondicionamiento" de las señales se realiza a través de un instrumento llamado acondicionador de señales. Es el primer paso para obtener una medición precisa de la señal con sistemas de adquisición de datos.
@@ -205,7 +205,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-20.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos físicos
+            //h2.mb-1 Métodos físicos
             p.mb-1.text-small #[strong Repetidores de señal:] un repetidor es un dispositivo electrónico que recibe una señal y la retransmite. Los repetidores se utilizan para extender las transmisiones, de modo que la señal pueda cubrir distancias más largas o ser recibida al otro lado de una obstrucción.
             p.mb-1.text-small Algunos tipos de repetidores emiten una señal idéntica, pero alteran su método de transmisión, por ejemplo, en otra frecuencia o velocidad en baudios.
             p.mb-1.text-small Hay varios tipos diferentes de repetidores; un repetidor telefónico es un amplificador en una línea telefónica, un repetidor óptico es un circuito optoelectrónico que amplifica el haz de luz en un cable de fibra óptica; y un repetidor de radio es un receptor y transmisor de radio que retransmite una señal de radio.
@@ -221,7 +221,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-22.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos lógicos
+            //h2.mb-1 Métodos lógicos
             p.mb-1.text-small #[strong Técnicas de suavizado:] en los casos en que la serie temporal carece de tendencias significativas, se pueden utilizar técnicas de suavizado para eliminar una variación aleatoria de la demanda histórica. Esto ayuda a identificar patrones y niveles de demanda que pueden ser usados para estimar la demanda futura.
             p.mb-1.text-small Los métodos más comunes utilizados en las técnicas de suavizado de la previsión de la demanda son el método de media móvil simple y el método de media móvil ponderada.
         .row.justify-content-center.align-items-center
@@ -229,7 +229,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-23.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos lógicos
+            //h2.mb-1 Métodos lógicos
             p.mb-1.text-small Una vez que haya ingresado sus datos en una hoja de cálculo o paquete de análisis, es esencial realizar algunas verificaciones básicas antes de comenzar su análisis principal. Si los datos se han recopilado automáticamente, por ejemplo, de un cuestionario basado en la web, esto no suele ser un problema. Sin embargo, aún debe verificar si hay duplicados (particularmente cuando se ha ofrecido un incentivo a los participantes). Si los datos se ingresan manualmente, entonces se deben incorporar algunas medidas de control de calidad en el proceso de ingreso de datos.
             p.mb-1.text-small Siempre es valioso realizar un análisis de distribución simple, mostrando cuántos encuestados han marcado cada respuesta a cada pregunta. Esto identificará cualquier error de codificación donde se hayan ingresado códigos fuera de rango y resaltará cualquier valor inusual.
         .row.justify-content-center.align-items-center
@@ -237,7 +237,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-24.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos lógicos
+            //h2.mb-1 Métodos lógicos
             p.mb-1.text-small #[strong Detectar valores atípicos:] en algunos análisis, los valores atípicos (valores individuales que son particularmente altos o bajos) pueden afectar materialmente los resultados. En tales casos, puede ser conveniente y legítimo omitirlos del análisis. Detectarlos es, en gran medida, subjetivo: un gráfico de la distribución de datos suele ser adecuado para detectar valores extremos. 
             p.mb-1.text-small Una prueba más objetiva es examinar como posible valor atípico cualquier valor que sea más de 3 desviaciones estándar de la media de la distribución. Los valores atípicos pueden ser indicativos de errores en los datos o de individuos atípicos en la población.
         .row.justify-content-center.align-items-center
@@ -245,7 +245,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/tema5-25.png', alt='')
           .col-md-6.mb-4.mb-md-0
-            h2.mb-1 Métodos lógicos
+            //h2.mb-1 Métodos lógicos
             p.mb-1.text-small #[strong Ejemplo de valor atípico:] en este conjunto de datos (ficticios), dos puntos se destacan claramente del resto y deben investigarse. Como se observa en la siguiente figura, los puntos rojos tienen un comportamiento evidentemente muy diferente al resto de los puntos.
 
     Separador
@@ -300,11 +300,11 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo 4 - Tipos De Normalización De Datos Más Comunes.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_4_Tipos_De_Normalizacion_De_Datos_Mas_Comunes.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo 4.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.docx
+            p #[strong Anexo.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.docx
 
 
 

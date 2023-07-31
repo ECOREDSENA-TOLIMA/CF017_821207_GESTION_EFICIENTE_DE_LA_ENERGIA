@@ -236,7 +236,7 @@ export default {
       referencia:
         'Leycom. (2017). <i>Tipos de datos en Excel</i> [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=pegiw2iVUY8',
+      link: 'https://www.youtube.com/watch?v=IZJ9_cD3NWc',
     },
   ],
   glosario: [
@@ -410,12 +410,12 @@ export default {
         {
           nombre: 'Leidy Carolina Arias Aguirre',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de diseño y metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisora Metodológica y Pedagógica',
-          centro: 'Regional Distrito Capital - Centro de diseño y metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',

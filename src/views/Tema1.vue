@@ -18,18 +18,18 @@
           p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Herramientas informáticas] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
             figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
             figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
 
     Separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.1 Herramientas informáticas tipo hardware más conocidas
+      h2 1.1 Herramientas informáticas tipo #[em hardware] más conocidas
 
-    p.mb-4(data-aos="fade-right") Le invitamos a visualizar de qué tratan las herramientas informáticas tipo hardware más conocidas:
+    p.mb-4(data-aos="fade-right") Le invitamos a visualizar de qué tratan las herramientas informáticas tipo #[em hardware] más conocidas:
 
 
     .row.justify-content-center.align-items-center.mb-4 
@@ -41,7 +41,7 @@
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Herramientas informáticas tipo #[i software] más conocidas
 
-    p(data-aos="fade-right") A continuación, verá algunas herramientas tipo #[i software] que se usan a diario:
+    p(data-aos="fade-right") A continuación, se presentan algunas herramientas tipo #[i software] que se usan a diario:
 
     .row.mb-5.align-self-stretch.mt-5.justify-content-center
       .col-md-4.col-lg-4.mb-5.mb-lg-0(data-aos="fade-right")
@@ -71,7 +71,7 @@
         ul.lista-ul.mb-2
           li.mb-0
             i.fas.fa-angle-right(style="color:#AD84FF")
-            | Complemente las herramientas informáticas visualizando el siguiente recurso:
+            | Complemente las herramientas informáticas con el siguiente contenido:
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -185,7 +185,7 @@
           .row.p-3(x="100%" y="62%" tooltip="Solución de <i>software</i> especializada" numero="7")
             .col-md-6.col-12.texto-negro
               .h5.mb-2.texto-negro Solución de <i>software</i> especializada
-              p Una solución de #[i software] personalizada puede ayudar a eliminar el cuello de botella del seguimiento de los recibos y gastos del personal, o puede facilitar que su equipo administre los contactos de marketing. 
+              p Una solución de #[i software] personalizada puede ayudar a eliminar el cuello de botella del seguimiento de los recibos y gastos del personal, o puede facilitar que su equipo administre los contactos de #[em marketing]. 
             .col-md-6.col-12
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-25.png', alt='')
@@ -225,7 +225,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Las computadoras mainframe son las que brindan instalaciones de procesamiento y almacenamiento de datos de alta capacidad a cientos o incluso miles de usuarios que operan desde terminales (tontas).',
+          'Las computadoras <em>mainframe</em> son las que brindan instalaciones de procesamiento y almacenamiento de datos de alta capacidad a cientos o incluso miles de usuarios que operan desde terminales (tontas).',
         imagen: require('@/assets/curso/temas/tema1/tema1-04.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -136,11 +136,11 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo 2 - Fecha y Hora en la herramienta de hojas de cálculo Excel.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_2_Fecha_y_Hora_en_la_herramienta_de_hojas_de_calculo_Excel.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo 2.] Fecha y Hora, en la herramienta de hojas de cálculo Excel, se explica cómo es un procedimiento con la herramienta de hojas de cálculo de Excel.
+            p #[strong Anexo.] Fecha y Hora, en la herramienta de hojas de cálculo Excel, se explica cómo es un procedimiento con la herramienta de hojas de cálculo de Excel.
 
 
     Separador
@@ -169,7 +169,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Datos de texto] 
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='')  
+          img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='Los archivos de texto son uno de los métodos de intercambio de datos más populares en la actualidad ya que pueden ser abiertos y consultados por diversas aplicaciones en diferentes sistemas operativos como Windows, Mac OS, Linux, iOS, Android, etc.')  
           figcaption Nota. Fuente: https://exceltotal.com/exportar-datos-de-excel-a-un-archivo-de-texto/
       .col-md-7.col-lg-8.col-12
         p Los tipos de caracteres y cadenas pueden tener diferentes subtipos, según el "ancho" del carácter requerido. Se descubrió que el ASCII original de 7 bits de ancho era limitado y fue reemplazado por conjuntos de 8 y 16 bits, que pueden codificar una amplia variedad de alfabetos no latinos (como hebreo y chino) y otros símbolos. Las cadenas pueden ser estiradas para ajustarse o de tamaño fijo, incluso en el mismo lenguaje de programación. También se pueden subtipificar por su tamaño máximo.

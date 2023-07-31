@@ -110,11 +110,11 @@
 
     .row.justify-content-center.align-items-center.mb-4.mt-5
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo 5 - Clasificación de datos 2019.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_5_Clasificacion_de_datos_2019_OEA_AWS.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo 5.] Para más información sobre clasificación de datos, descargue el siguiente documento: Clasificación de datos 2019.pdf 
+            p #[strong Anexo.] Para más información sobre clasificación de datos, descargue el siguiente documento: Clasificación de datos 2019.pdf 
 
 
 

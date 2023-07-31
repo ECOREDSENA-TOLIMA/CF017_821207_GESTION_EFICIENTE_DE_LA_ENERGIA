@@ -484,7 +484,7 @@
               img(src='@/assets/curso/temas/tema7/tema7-33.png', alt='')
           .col-md-6.mb-4.mb-md-0
             h3 3. Sepa qué integraciones necesita:
-            p.text-small ¿Su empresa utiliza CRM, contabilidad, ERP u otro software? El sistema de inventario que elija debe poder integrarse con los otros sistemas que ya tiene. Si no es así, deberá ingresar los datos manualmente. Dependiendo de la cantidad de puntos de datos que tenga, como artículos, ubicaciones y pedidos, esto puede llevar mucho tiempo. También correrá el riesgo de perder datos y provocar retrasos en la actualización de datos. La elección de un sistema que se pueda integrar sin problemas mejorará enormemente la eficiencia y la visibilidad.
+            p.text-small ¿Su empresa utiliza CRM, contabilidad, ERP u otro #[em software]? El sistema de inventario que elija debe poder integrarse con los otros sistemas que ya tiene. Si no es así, deberá ingresar los datos manualmente. Dependiendo de la cantidad de puntos de datos que tenga, como artículos, ubicaciones y pedidos, esto puede llevar mucho tiempo. También correrá el riesgo de perder datos y provocar retrasos en la actualización de datos. La elección de un sistema que se pueda integrar sin problemas mejorará enormemente la eficiencia y la visibilidad.
         .row.justify-content-center.align-items-center
           .col-md-5
             figure
@@ -519,7 +519,7 @@
 
     .row.justify-content-center.mb-5.mt-2
       .col-12.col-md-6.col-lg-5(data-aos="fade-right")
-        p a. Los mejores softwares pagos de gestión de inventario:
+        p a. Los mejores #[em softwares] pagos de gestión de inventario:
         ul.lista-ul.mb-5
           li.mb-0(data-aos="fade-down")
             i.lista-ul__vineta
@@ -555,7 +555,7 @@
             i.lista-ul__vineta
             | nChannel
       .col-12.col-md-6.col-lg-5(data-aos="fade-left")
-        p b. Los mejores softwares gratuitos y de código abierto de gestión de inventario:
+        p b. Los mejores #[em softwares] gratuitos y de código abierto de gestión de inventario:
         ul.lista-ul.mb-5
           li.mb-0(data-aos="fade-down")
             i.lista-ul__vineta
