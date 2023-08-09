@@ -112,28 +112,28 @@
     p.mb-5(data-aos="fade-right") Revise la cantidad total de datos a través de la siguiente información:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down-left")
-      .tarjeta.tarjeta--gris.p-0
-        .row.justify-content-center.mb-3
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
+        .row.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-10.png' alt='AvatarTop')
           .col-12.p-4
             p.text-center Hace aproximadamente 50 años, el primer disco duro para PC tenía capacidad de almacenamiento de 50 MB, un tamaño como el de una nevera casera y un peso aproximado de una tonelada.
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-11.png' alt='AvatarTop')
           .col-12.p-4
             p.text-center Hoy disponemos de discos de estado sólido de 1 TB, del tamaño del bolsillo de nuestras camisas y de unos 40 gr de peso. 
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-12.png' alt='AvatarTop')
           .col-12.p-4
             p.text-center Esta facilidad de almacenamiento ha llevado a la errónea conclusión que, cuanto más grande la cantidad de datos, mejor el análisis y sus conclusiones, cuando es en realidad el contexto de la información adquirida el que determina el volumen de los datos necesarios para el análisis.
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-13.png' alt='AvatarTop')
@@ -142,21 +142,21 @@
             p.mb-0.text-center ¿Cuál es el costo unitario de la adquisición, almacenamiento y procesamiento del dato?
             p.text-center ¿Cuál es la velocidad con la que deben ser adquiridos y procesados los datos?
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-14.png' alt='AvatarTop')
           .col-12.p-4
             p.text-center Y sin embargo, a pesar de conocer la respuesta a estas preguntas, determinar cuánto es suficiente en el volumen de los datos es una tarea muy difícil de realizar a priori, siendo el método de prueba y error el más ampliamente usado. 
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-15.png' alt='AvatarTop')
           .col-12.p-4
             p.text-center En cambio, es más fácil determinar por métodos matemáticos la cantidad mínima de datos necesaria para soportar estadísticamente las conclusiones alcanzadas. 
 
-      .tarjeta.tarjeta--gris.p-0
+      .tarjeta.tarjeta--gris.p-0.cs-me-5
         .row.justify-content-center.mb-3
           .col-12.pt-4.px-4
             p.text-center.mb-0 Uno de tales métodos es el de intervalos de confianza, que consiste en determinar los valores límites de un intervalo dentro del cual una variable puede encontrarse con una probabilidad especificada. En este método, la cantidad mínima de datos “n” se determina así:
