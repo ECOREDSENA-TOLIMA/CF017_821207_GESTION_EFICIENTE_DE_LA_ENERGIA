@@ -304,7 +304,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.docx
+            p #[strong Anexo.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.pdf
 
 
 
