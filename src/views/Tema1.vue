@@ -19,17 +19,17 @@
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
-            figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
+            //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
         div.d-block.d-md-none
           figure
             img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
-            figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
+            //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
 
     Separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.1 Herramientas informáticas tipo #[em hardware] más conocidas
 
-    p.mb-4(data-aos="fade-right") Le invitamos a visualizar de qué tratan las herramientas informáticas tipo #[em hardware] más conocidas:
+    p.mb-4(data-aos="fade-right") A continuación, encuentra las herramientas informáticas tipo #[em hardware] más conocidas:
 
 
     .row.justify-content-center.align-items-center.mb-4 

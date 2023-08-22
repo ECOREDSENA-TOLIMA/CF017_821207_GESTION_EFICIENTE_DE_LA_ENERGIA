@@ -71,7 +71,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Entrevista] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-07.png', alt='Nuestra comunicación es clave para sacarle partido a multitud de situaciones. Una situación determinante en la vida de todas las personas es la que tiene que ver con la entrevista de trabajo.')  
-          figcaption Nota. Fuente: https://www.talenttunity.com/diferencia-entre-entrevistas-informales-y-entrevistas-profesionales/
+          //- figcaption Nota. Fuente: https://www.talenttunity.com/diferencia-entre-entrevistas-informales-y-entrevistas-profesionales/
 
     p.mb-5.mt-5(data-aos="fade-right") Las entrevistas pueden ser estructuradas, semiestructuradas o abiertas. Las entrevistas estructuradas se basan en un conjunto básico de preguntas que siempre se hacen en el mismo orden. Las entrevistas semiestructuradas también contienen un conjunto básico de preguntas, pero permiten al entrevistador hacer preguntas complementarias o cambiar el orden en que se hacen las preguntas.
 
@@ -86,7 +86,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Discusión grupos focales] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-08.png', alt='Son excelentes para conocer las percepciones y actitudes de un grupo definido de gente con un porposito en común.')  
-          figcaption Nota. Fuente:  https://www.fesc.edu.co/portal/index.php/comunicados-prensa/1048-grupo-focal-sector-turismo
+          //- figcaption Nota. Fuente:  https://www.fesc.edu.co/portal/index.php/comunicados-prensa/1048-grupo-focal-sector-turismo
 
     p.mb-5.mt-5(data-aos="fade-right") Los grupos focales se utilizan a menudo para solicitar las opiniones de aquellos que no estarían dispuestos o no podrían hablar en reuniones de grupos más grandes. También pueden utilizarse para acceder a las opiniones de grupos minoritarios o desfavorecidos, como mujeres, niños o personas con discapacidad.
 
@@ -101,7 +101,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Toma fotográfica en campo] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-09.png', alt='Tomas fotográficas realizadas en campo con el personal o maquinaria de trabajo.')  
-          figcaption Nota. Fuente: https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/2-empresas/2-1-8-4-6-radicaci%C3%B3n-de-dise%C3%B1os-el%C3%A9ctricos/Guia-de-Presentacion-de-Proyectos-V5-1.pdf
+          //- figcaption Nota. Fuente: https://www.enel.com.co/content/dam/enel-co/espa%C3%B1ol/2-empresas/2-1-8-4-6-radicaci%C3%B3n-de-dise%C3%B1os-el%C3%A9ctricos/Guia-de-Presentacion-de-Proyectos-V5-1.pdf
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-2 Estudios de caso e historias de cambio:
@@ -114,7 +114,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Estudio de caso mediante observación en sitio] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-10.png', alt='Las instalaciones eléctricas industriales son un conjunto de circuitos eléctricos que tienen la misión de conducir y distribuir la corriente eléctrica desde su punto de origen (el servicio eléctrico) hasta su salida.')  
-          figcaption Nota. Fuente: https://www.tusocal.com/blog/instalaciones-electricas-industriales-como-funcionan/
+          //- figcaption Nota. Fuente: https://www.tusocal.com/blog/instalaciones-electricas-industriales-como-funcionan/
 
     p.mb-5.mt-5(data-aos="fade-right") Pero también pueden centrarse en cualquier otra unidad de análisis, como ubicaciones, organizaciones, políticas o el medio ambiente. Las historias de cambio son similares a los estudios de casos. Sin embargo, tienen un enfoque específico en el cambio y, por lo general, solo se desarrollan después de que un proyecto o programa ha comenzado.
 
@@ -129,7 +129,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Encuestas y cuestionarios] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-11.png', alt='El instrumento básico utilizado en la investigación por encuesta es el cuestionario, que podemos definir como el "documento que recoge de forma organizada los indicadores de las variables implicadas en el objetivo de la encuesta".')  
-          figcaption Nota. Fuente: https://www.asep.gob.pa/?page_id=12898
+          //- figcaption Nota. Fuente: https://www.asep.gob.pa/?page_id=12898
 
     p.mb-5.mt-5(data-aos="fade-right") Por lo general, constan de tres aspectos diferentes: un método de muestreo aprobado, diseñado para garantizar que la encuesta sea representativa de una población más amplia; un cuestionario estándar que garantiza que la información sea recopilada y registrada de forma coherente; y un conjunto de métodos de análisis que permitan generar resultados y hallazgos.
 
