@@ -52,7 +52,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-9.col-12(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/tema6-02.svg', alt='') 
+          img(src='@/assets/curso/temas/tema6/tema6-02.svg', alt='Los principios de clasificación de datos e información corresponden a: apertura, transparencia y valores sociales, enfoque impulsado por contenido, tecnológicamente neutro, enfoque de gestión de riesgo, proporcionalidad, papales y responsabilidades claras y enfoque de ciclo de vida. ') 
 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down-left")
@@ -110,7 +110,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mt-5
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_5_Clasificacion_de_datos_2019_OEA_AWS.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_4_Clasificacion_de_datos_2019_OEA_AWS.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

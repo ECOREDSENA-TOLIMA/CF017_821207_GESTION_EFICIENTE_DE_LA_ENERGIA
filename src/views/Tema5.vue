@@ -242,8 +242,10 @@
             p.mb-1.text-small Una prueba más objetiva es examinar como posible valor atípico cualquier valor que sea más de 3 desviaciones estándar de la media de la distribución. Los valores atípicos pueden ser indicativos de errores en los datos o de individuos atípicos en la población.
         .row.justify-content-center.align-items-center
           .col-md-6
+            .titulo-sexto.color-acento-contenido
+              p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Ejemplo de valor atípico] 
             figure
-              img(src='@/assets/curso/temas/tema5/tema5-25.png', alt='')
+              img(src='@/assets/curso/temas/tema5/tema5-25.png', alt='En este conjunto de datos (ficticios), dos puntos se destacan claramente del resto y deben investigarse.')
           .col-md-6.mb-4.mb-md-0
             //h2.mb-1 Métodos lógicos
             p.mb-1.text-small #[strong Ejemplo de valor atípico:] en este conjunto de datos (ficticios), dos puntos se destacan claramente del resto y deben investigarse. Como se observa en la siguiente figura, los puntos rojos tienen un comportamiento evidentemente muy diferente al resto de los puntos.
@@ -300,7 +302,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_4_Tipos_De_Normalizacion_De_Datos_Mas_Comunes.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_3_Tipos_de_normalizacion_de_datos_mas_comunes.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

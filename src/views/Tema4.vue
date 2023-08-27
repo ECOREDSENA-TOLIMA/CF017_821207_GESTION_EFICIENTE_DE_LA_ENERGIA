@@ -143,7 +143,7 @@
       .col-md-6.col-12(data-aos="fade-right")
         p Un ejemplo de importación de archivos sería cómo importar un archivo delimitado a Excel. Para conocer este procedimiento, diríjase al Anexo.
       .col-md-6.col-12(data-aos="fade-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_3_Como_Importar_Un_Archivo_Delimitado_A_Excel.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_2_Como_importar_un_archivo_delimitado_a_excel.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -171,7 +171,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Crecimiento de datos a lo largo de los años] 
         figure
-          img(src='@/assets/curso/temas/tema4/tema4-12.png', alt='La cantidad de datos creados en todo el mundo en 2018 alcanzó los 33 zettabytes (un zettabyte equivale a 1.000 millones de terabytes), 16,5 veces más que solo hace nueve años. No obstante, gracias a los nuevos desarrollos tecnológicos, como el internet de las cosas, se estima que la cantidad de información digital generada en 2035 ascienda a los 2.142 zettabytes.')  
+          img(src='@/assets/curso/temas/tema4/tema4-12.png', alt='Crecimiento de datos a lo largo de los años muestra la figura del globo terráqueo reflejando el crecimiento de datos a partir de 2010 con 2 zettabyte con una proyección de crecimiento a 2023 de 2.142 zettabyte , donde 1 zettabyte equivale a 1.000 millones de terabyte. ')  
           figcaption Nota. Fuente: https://es.statista.com/grafico/17734/cantidad-real-y-prevista-de-datos-generados-en-todo-el-mundo/
 
 

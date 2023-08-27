@@ -8,44 +8,38 @@
       h1 Tipos de datos
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-12.col-md-10.fondo-1(data-aos="flip-right")
+      .col-12.col-md-12.fondo-1(data-aos="flip-right")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-9.col-12.px-3
-            p.text-white Teniendo en cuenta lo anteriormente visto, es necesario conocer que dichos sistemas poseen un sistema de información que interpreta su valor. 
-            strong ¡Adelante, le invitamos a explorar de qué se trata!
+          .col-md-8.col-lg-9.col-12.px-3.pt-2
+            p.text-white El tipo de datos es un atributo asociado con un dato que le dice a un sistema informático cómo interpretar su valor. Comprender los tipos de datos garantiza que los datos se recopilen en el formato preferido y que el valor de cada propiedad sea el esperado. Tenga en cuenta que los tipos de datos no deben confundirse con los dos tipos de datos en conjunto denominados datos del cliente: datos de entidades y datos de eventos.
+            //- p.text-white Teniendo en cuenta lo anteriormente visto, es necesario conocer que dichos sistemas poseen un sistema de información que interpreta su valor. 
+            //- strong ¡Adelante, le invitamos a explorar de qué se trata!
           .col-md-4.col-lg-3.col-12 
             figure
                 img(src='@/assets/curso/temas/tema2/tema2-01.svg', alt='') 
 
+    .row.mb-5.align-self-stretch.mt-5.justify-content-center
+      .col-md-4.col-12(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema2/tema2-02.png', alt='')  
+      .col-md-8.col-lg-6.col-12(data-aos="fade-right")
+        .tarjeta.tarjeta--azul(style="height:100%")
+          .p-4
+            p.mb-0 Se requiere una buena comprensión de los tipos de datos para definir correctamente las propiedades de los eventos y las propiedades de las entidades. Un plan de seguimiento bien definido debe contener el tipo de datos de cada propiedad, para garantizar la precisión de los datos y evitar la pérdida de estos.
 
     Separador
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.1 Datos numéricos
 
-    p.mb-4(data-aos="fade-right") Estos datos son bien significativos, por lo tanto, revise la siguiente introducción al tema:
+    //- p.mb-4(data-aos="fade-right") Estos datos son bien significativos, por lo tanto, revise la siguiente introducción al tema:
 
     .row.mb-5.align-self-stretch.mt-5.justify-content-center
-      .col-md-4.col-lg-4.mb-5.mb-lg-0(data-aos="fade-right")
-        .tarjeta.tarjeta--azul(style="height:100%")
-          .p-4
-            h4.text-center Tipos de datos 
-            p El tipo de datos es un atributo asociado con un dato que le dice a un sistema informático cómo interpretar su valor. Comprender los tipos de datos garantiza que los datos se recopilen en el formato preferido y que el valor de cada propiedad sea el esperado. Tenga en cuenta que los tipos de datos no deben confundirse con los dos tipos de datos en conjunto denominados datos del cliente: datos de entidades y datos de eventos.
-            figure
-              img(src='@/assets/curso/temas/tema2/tema2-02.png', alt='')  
-      .col-md-4.col-lg-4.mb-5.mb-lg-0(data-aos="fade-down")
-        .tarjeta.color-acento-contenido(style="height:100%")
-          .p-4
-            h4.text-center Tipos de datos 
-            p.pt-md-4 Se requiere una buena comprensión de los tipos de datos para definir correctamente las propiedades de los eventos y las propiedades de las entidades. Un plan de seguimiento bien definido debe contener el tipo de datos de cada propiedad, para garantizar la precisión de los datos y evitar la pérdida de estos.
-            figure.pt-md-4
-              img(src='@/assets/curso/temas/tema2/tema2-03.png', alt='')  
-      .col-md-4.col-lg-4.mb-5.mb-lg-0(data-aos="fade-left")
-        .tarjeta.tarjeta--azul(style="height:100%")
-          .p-4
-            h4.text-center Datos numéricos
-            p Los datos numéricos son un tipo de datos expresado en números, en lugar de una descripción en lenguaje natural. A veces llamados datos cuantitativos, los datos numéricos siempre se recopilan en forma de números. Los datos numéricos se diferencian de otros tipos de datos en forma de números por su capacidad para realizar operaciones aritméticas con estos números en diferentes entornos y áreas del conocimiento.
-            figure
-              img(src='@/assets/curso/temas/tema2/tema2-04.png', alt='')  
+      .col-md-7.col-lg-7.col-12(data-aos="fade-right")
+        p Los datos numéricos son un tipo de datos expresado en números, en lugar de una descripción en lenguaje natural. A veces llamados datos cuantitativos, los datos numéricos siempre se recopilan en forma de números. Los datos numéricos se diferencian de otros tipos de datos en forma de números por su capacidad para realizar operaciones aritméticas con estos números en diferentes entornos y áreas del conocimiento.
+      .col-md-5.col-lg-5.col-12.mb-5.mb-lg-0(data-aos="fade-left")
+        .p-4
+          figure
+            img(src='@/assets/curso/temas/tema2/tema2-04.png', alt='')  
            
     p.mb-4(data-aos="fade-right") Para el procesamiento de datos mediante herramientas software, se van a contemplar los siguientes tipos: 
 
@@ -136,7 +130,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-10.col-lg-8(data-aos="fade-down-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_2_Fecha_y_Hora_en_la_herramienta_de_hojas_de_calculo_Excel.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Fecha_y_hora_en_la_herramienta_de_hojas_de_calculo_excel.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
