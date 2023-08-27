@@ -51,6 +51,8 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10.col-lg-9.col-12(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Principios de clasificación de datos e información] 
         figure
           img(src='@/assets/curso/temas/tema6/tema6-02.svg', alt='Los principios de clasificación de datos e información corresponden a: apertura, transparencia y valores sociales, enfoque impulsado por contenido, tecnológicamente neutro, enfoque de gestión de riesgo, proporcionalidad, papales y responsabilidades claras y enfoque de ciclo de vida. ') 
 

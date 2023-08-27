@@ -48,7 +48,7 @@
         p Si se quiere realizar la recolección de datos de una señal determinada, la frecuencia de momento de captura de datos es el muestreo de información continua del mundo real para generar datos que pueden ser manipulados por una computadora. Esta frecuencia está determinada según el comportamiento de dicha señal; para señales que cambian lentamente, como la temperatura, la única consideración es proporcionar una nueva lectura para que los datos estén razonablemente actualizados. Si la temperatura se lee solo una vez por minuto, es posible que no muestre con precisión la temperatura de un horno que se calienta rápidamente. Es necesaria una frecuencia de muestreo más rápida.
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Precisión en la captura")
         h4 Precisión en la captura
-        p En algunas aplicaciones, como la reproducción precisa de un electrocardiograma, es crucial capturar con exactitud los pequeños cambios en una forma de onda. La tasa de cambio más rápida en la señal, medida en voltios por segundo, es un factor importante. Si un medidor digital de tres dígitos se actualiza solo 10 veces por segundo, solo se puede resolver un cambio de un voltio por muestra, equivalente a un dígito de resolución. Para detectar cambios del 1% o 0.1% en una señal de 10 voltios, se requieren tasas de muestreo de 100 y 1000 veces por segundo, respectivamente. Dado que los electrocardiogramas cambian rápidamente en poco tiempo, a pesar de una frecuencia cardíaca de aproximadamente una vez por segundo, es posible que se deba tomar muestras de 100 a 1000 veces por segundo. La precisión en la captura de estos cambios sutiles es crucial para el análisis y diagnóstico médico.
+        p En algunas aplicaciones, como la reproducción precisa de un electrocardiograma, es crucial capturar con exactitud los pequeños cambios en una forma de onda. La tasa de cambio más rápida en la señal, medida en voltios por segundo, es un factor importante. Si un medidor digital de tres dígitos se actualiza solo 10 veces por segundo, solo se puede resolver un cambio de un voltio por muestra, equivalente a un dígito de resolución. Para detectar cambios del 1 % o 0.1 % en una señal de 10 voltios, se requieren tasas de muestreo de 100 y 1000 veces por segundo, respectivamente. Dado que los electrocardiogramas cambian rápidamente en poco tiempo, a pesar de una frecuencia cardíaca de aproximadamente una vez por segundo, es posible que se deba tomar muestras de 100 a 1000 veces por segundo. La precisión en la captura de estos cambios sutiles es crucial para el análisis y diagnóstico médico.
 
     Separador
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -163,7 +163,7 @@
           .col-12
             img(src='@/assets/curso/temas/tema5/tema5-16.png' alt='AvatarTop')
           .col-12.px-4
-            p.text-center.mb-md-0 donde ▁X, S y d son la media, la desviación estándar y el porcentaje de desviación de la media del intervalo de los datos y t#[sub n-1,α/2]  el valor de la distribución t student con n-1 grados de libertad y 5% de nivel de significancia.
+            p.text-center.mb-md-0 donde ▁X, S y d son la media, la desviación estándar y el porcentaje de desviación de la media del intervalo de los datos y t#[sub n-1,α/2]  el valor de la distribución t student con n-1 grados de libertad y 5 % de nivel de significancia.
 
     Separador
     #t_5_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -243,7 +243,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6
             .titulo-sexto.color-acento-contenido
-              p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Ejemplo de valor atípico] 
+              p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Ejemplo de valor atípico] 
             figure
               img(src='@/assets/curso/temas/tema5/tema5-25.png', alt='En este conjunto de datos (ficticios), dos puntos se destacan claramente del resto y deben investigarse.')
           .col-md-6.mb-4.mb-md-0
@@ -306,7 +306,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo.] Para mayor información, descargue el siguiente documento: Tipos De Normalización De Datos Más Comunes.pdf
+            p #[strong Anexo.] Para mayor información, descargue el siguiente documento: Tipos de normalización de datos más comunes.pdf
 
 
 

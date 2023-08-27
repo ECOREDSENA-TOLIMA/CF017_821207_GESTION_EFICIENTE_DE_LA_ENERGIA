@@ -160,10 +160,10 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-5.col-lg-4.col-12(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Datos de texto] 
+        //- .titulo-sexto.color-acento-contenido
+        //-   p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Datos de texto] 
         figure
-          img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='Los archivos de texto son uno de los métodos de intercambio de datos más populares en la actualidad ya que pueden ser abiertos y consultados por diversas aplicaciones en diferentes sistemas operativos como Windows, Mac OS, Linux, iOS, Android, etc.')  
+          img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='')  
           //- figcaption Nota. Fuente: https://exceltotal.com/exportar-datos-de-excel-a-un-archivo-de-texto/
       .col-md-7.col-lg-8.col-12
         p.mb-0 Los tipos de caracteres y cadenas pueden tener diferentes subtipos, según el "ancho" del carácter requerido. Se descubrió que el ASCII original de 7 bits de ancho era limitado y fue reemplazado por conjuntos de 8 y 16 bits, que pueden codificar una amplia variedad de alfabetos no latinos (como hebreo y chino) y otros símbolos. Las cadenas pueden ser estiradas para ajustarse o de tamaño fijo, incluso en el mismo lenguaje de programación. También se pueden subtipificar por su tamaño máximo.

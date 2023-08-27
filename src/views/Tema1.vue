@@ -18,11 +18,11 @@
           p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Herramientas informáticas] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Herramientas informáticas se dan en dos componentes claves: el software y el hardware.')  
             //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Herramientas informáticas se dan en dos componentes claves: el <i>software</i> y el <i>hardware</i>.')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Herramientas informáticas se dan en dos componentes claves: el software y el hardware.')  
             //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
 
     Separador
