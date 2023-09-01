@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-12.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis. El diagrama presenta la síntesis del componente formativo, acorde a la descripción previa presentada. El Componente de recolección de datos e inventarios aborda los temas en el contexto de la gestión de información.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

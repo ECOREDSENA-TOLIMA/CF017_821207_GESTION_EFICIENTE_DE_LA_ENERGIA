@@ -18,11 +18,11 @@
           p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Herramientas informáticas] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Herramientas informáticas se dan en dos componentes claves: el software y el hardware.')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-md.png', alt='Figura 1. Herramientas informáticas se dividen en dos componentes claves: hardware y software, donde hardware corresponde a todo los tangible como la CPU, el monitor, la impresora, entre otros. Y el software corresponde a los programas que hace posible la sistematización de la información, el procesamiento de datos y la gestión de la información.')  
             //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Herramientas informáticas se dan en dos componentes claves: el software y el hardware.')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-sm.png', alt='Figura 1. Herramientas informáticas se dividen en dos componentes claves: hardware y software, donde hardware corresponde a todo los tangible como la CPU, el monitor, la impresora, entre otros. Y el software corresponde a los programas que hace posible la sistematización de la información,, el procesamiento de datos y la gestión de la información.')  
             //- figcaption Nota. Fuente: https://www.goconqr.com/c/61849/course_modules/93926-tema-3--hardware-y-software-#
 
     Separador

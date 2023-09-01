@@ -171,7 +171,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Crecimiento de datos a lo largo de los años] 
         figure
-          img(src='@/assets/curso/temas/tema4/tema4-12.png', alt='Crecimiento de datos a lo largo de los años muestra la figura del globo terráqueo reflejando el crecimiento de datos a partir de 2010 con 2 zettabyte con una proyección de crecimiento a 2023 de 2.142 zettabyte , donde 1 zettabyte equivale a 1.000 millones de terabyte. ')  
+          img(src='@/assets/curso/temas/tema4/tema4-12.png', alt='Figura 2. Crecimiento de datos a lo largo de los años muestra la figura del globo terráqueo reflejando el crecimiento de datos a partir de 2010 con 2 zettabyte con una proyección de crecimiento a 2023 de 2.142 zettabyte , donde 1 zettabyte equivale a 1.000 millones de terabyte. ')  
           figcaption Nota. Fuente: <a href="https://es.statista.com/grafico/17734/cantidad-real-y-prevista-de-datos-generados-en-todo-el-mundo/" target="_blank" style="color:blue">https://es.statista.com/grafico/17734/cantidad-real-y-prevista-de-datos-generados-en-todo-el-mundo/</a>
 
 
