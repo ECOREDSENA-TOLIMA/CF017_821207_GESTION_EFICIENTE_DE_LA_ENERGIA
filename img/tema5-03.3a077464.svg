@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="469.638" height="149.635" viewBox="0 0 469.638 149.635">
+  <g id="Grupo_974729" data-name="Grupo 974729" transform="translate(-922.5 -1483.213)">
+    <g id="Grupo_974728" data-name="Grupo 974728">
+      <g id="Grupo_973899" data-name="Grupo 973899" transform="translate(568.21 -151.752)">
+        <g id="Grupo_973897" data-name="Grupo 973897" transform="translate(591.79 1666.205)">
+          <path id="Trazado_697486" data-name="Trazado 697486" d="M0,0V221.089" transform="translate(0 59.197) rotate(-90)" fill="none" stroke="#000" stroke-width="5"/>
+          <g id="Polígono_156" data-name="Polígono 156" transform="translate(232.138 53.204) rotate(90)">
+            <path d="M 10.90474605560303 10.34082126617432 L 0.839478075504303 10.34082126617432 L 5.872112274169922 1.049803256988525 L 10.90474605560303 10.34082126617432 Z" stroke="none"/>
+            <path d="M 5.872112274169922 2.099586486816406 L 1.678943634033203 9.840821266174316 L 10.06528091430664 9.840821266174316 L 5.872112274169922 2.099586486816406 M 5.872112274169922 1.9073486328125e-06 L 11.74422264099121 10.84082126617432 L 1.9073486328125e-06 10.84082126617432 L 5.872112274169922 1.9073486328125e-06 Z" stroke="none" fill="#000"/>
+          </g>
+          <path id="Trazado_697485" data-name="Trazado 697485" d="M4177-9646s3.5,5.826,4.613,32.369,6.841,21.365,7.318,0,5.409-51.143,9.068-4.531,7,9.064,7.8,0,4.136-50.5,8.113,0,7.478,7.771,8.273,0,.955-25.9,3.659-25.248,3.925,12.314,4.8,25.248,5.015,43.46,8.721-2.329,6.978-11.556,8.068,1.31,4.142,41.645,8.285-1.31,6.323-15.915,8.286,0,4.36,42.082,8.285,0,6.1-17.441,8.285,0,3.925,39.9,8.286,0,6.1-19.4,8.285,0,4.143,39.466,8.5,0,5.451-23.111,7.631,0,4.8,37.723,9.158,0,3.924-21.8,7.414,0,4.579,37.5,9.375,0,4.36-23.111,7.414,1.31,5.233,34.449,8.722-1.31,3.489-27.689,7.849,0,2.18,22.022,4.579,23.331" transform="translate(-4174.166 9679.142)" fill="none" stroke="#25ffff" stroke-width="5"/>
+          <text id="t" transform="translate(210.456 76.238)" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">t</tspan></text>
+          <path id="Trazado_697487" data-name="Trazado 697487" d="M4177-9438v118.395" transform="translate(-4177 9438)" fill="none" stroke="#000" stroke-width="5"/>
+        </g>
+        <text id="Alta_frecuencia" data-name="Alta frecuencia" transform="translate(643.928 1634.965)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Alta frecuencia</tspan></text>
+      </g>
+      <g id="Grupo_974727" data-name="Grupo 974727" transform="translate(925 1522.283)">
+        <path id="Trazado_697483" data-name="Trazado 697483" d="M0,0V176.36" transform="translate(0 47.22) rotate(-90)" fill="none" stroke="#000" stroke-width="5"/>
+        <g id="Polígono_155" data-name="Polígono 155" transform="translate(184.946 42.947) rotate(90)">
+          <path d="M 8.225005149841309 8.534019470214844 L 0.8090147376060486 8.534019470214844 L 4.517009735107422 1.118029713630676 L 8.225005149841309 8.534019470214844 Z" stroke="none"/>
+          <path d="M 4.517009735107422 2.236069679260254 L 1.618034839630127 8.034019470214844 L 7.415984630584717 8.034019470214844 L 4.517009735107422 2.236069679260254 M 4.517009735107422 0 L 9.034019470214844 9.034019470214844 L 0 9.034019470214844 L 4.517009735107422 0 Z" stroke="none" fill="#000"/>
+        </g>
+        <path id="Trazado_697484" data-name="Trazado 697484" d="M4177-9646s11.479,4.7,15.131,26.089,22.437,17.218,24,0,17.741-41.22,29.742-3.653,22.958,7.306,25.567,0,13.566-40.7,26.611,0,24.523,6.262,27.132,0,3.131-20.87,12-20.349" transform="translate(-4177 9669.479)" fill="none" stroke="#25ffff" stroke-width="5"/>
+        <text id="t-2" data-name="t" transform="translate(167.781 62.271)" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">t</tspan></text>
+        <path id="Trazado_697482" data-name="Trazado 697482" d="M4177-9438v94.441" transform="translate(-4177 9438)" fill="none" stroke="#000" stroke-width="5"/>
+      </g>
+      <text id="Baja_Frecuencia" data-name="Baja Frecuencia" transform="translate(966.138 1483.213)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Baja Frecuencia</tspan></text>
+    </g>
+  </g>
+</svg>
